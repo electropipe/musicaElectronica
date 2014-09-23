@@ -2,10 +2,23 @@
 ### Programa: Introducción a la música electrónica
 ------
 
-**Felipe Carmona - Orquidea**
+**Felipe Carmona -Operacion Orquidea**
+* Tempo: **125bpm**
+* Tonalidad: **C#m**
+* Progresión: **C#m F#m A B**
 
 
 **Felipe Carmona - La Ultima Granada**
+
+* Tempo: **125bpm**
+* Tonalidad: **Dm**
+* Progresión: **Dm**
+
+**Felipe Carmona - Solo_Casa Electronica_ 1**
+
+* Tempo: **130bpm**
+* Tonalidad: **Em**
+* Progresión: **Em G Am Em**
 
 **The Black Eyed Peas - I gotta feeling**
 
