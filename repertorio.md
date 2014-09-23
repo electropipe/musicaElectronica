@@ -2,7 +2,7 @@
 ### Programa: Introducción a la música electrónica
 ------
 
-**Felipe Carmona -Operacion Orquidea**
+**Felipe Carmona - Operacion Orquidea**
 * Tempo: **125bpm**
 * Tonalidad: **C#m**
 * Progresión: **C#m F#m A B**
