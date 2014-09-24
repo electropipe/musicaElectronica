@@ -43,4 +43,4 @@ __Semana 12__ Muestra de trabajos
 
 
 
-  [Clase de Intensidad](https://archive.org/details/ClaseDeIntensidad) 
+ 
