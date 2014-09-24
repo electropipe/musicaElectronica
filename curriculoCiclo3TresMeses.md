@@ -40,3 +40,7 @@ __Semana 11__ Algoritmos
 
 
 __Semana 12__ Muestra de trabajos
+
+
+
+  [Clase de Intensidad](https://archive.org/details/ClaseDeIntensidad) 
