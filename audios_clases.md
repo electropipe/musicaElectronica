@@ -4,7 +4,8 @@
 
 ## [Clase de Estructuras](https://archive.org/details/ClaseEstructuras) 
 
-Análisis y método grafico de estructuras de las canciones, Su utilidad es que sirven como plantillas para aplicar en composiciones propias.
+Análisis y método grafico de estructuras lineales en las canciones.   
+Su utilidad es que sirven como plantillas para aplicar en composiciones propias.
 
 Cancion 1
 <img src="http://i61.tinypic.com/dy6khu.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
