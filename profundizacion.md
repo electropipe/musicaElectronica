@@ -7,41 +7,9 @@ tutoriales, sitios web, comunidades de expertos.
 
 
 
-##Drum&Bass (DnB)
+###[Drum&Bass (DnB) ](drumBass.md )
 Es una mezcla de ritmos jamaiquinos con electronicos(Breakbeat, rave, techno, hip house, dub, dancehall)
 Surgio en Inglaterra a principios de los 90s. Es un genero agresivo, pesado y bastante rapido (160-180 bpm)
-
-Su parte ritmica caracteristica, surguio extrayendo grooves en un par de canciones. Algunas de las mas usadas son:
-
-[The Winstons - Amen Brother](https://www.youtube.com/watch?v=GxZuq57_bYM)
-
-[James Brown Funky Drummer](https://www.youtube.com/watch?v=dNP8tbDMZNE)
-
-#### Como suena el Drum&Bass?
-
-Estos son algunos reerentes importantes:
-
-[1990: Spliffhead]          ( http://www.youtube.com/watch?v=_LNOMxqJUn0)
-
-[1992: Terminator]          (  http://www.youtube.com/watch?v=OnzP4F9SqvQ)
-
-[1995: Horizons    ]    (  http://www.youtube.com/watch?v=R7eAQOYSXmY)
-
-[1996: Trippin' on Broken Beats](  http://www.youtube.com/watch?v=rPQHJ14o0AQ)
-
-[1997: I am the Black Gold of the sun] (  http://www.youtube.com/watch?v=aYBT90PFmoM)
-
-[1997: Vic Acid ]        ( http://www.youtube.com/watch?v=QEboyCrygv8)
-
-[1998: Imagination ]         (  http://www.youtube.com/watch?v=757SbRSPzeI)
-
-[2005: Szerencsetlen ]      (  http://www.youtube.com/watch?v=vg52OSGmg7g)
-
-[2007: Hidden Killer  ]      ( http://www.youtube.com/watch?v=q_D9u8FAoZM)
-
-[2009: Silicon  ]          ( http://www.youtube.com/watch?v=iCuVrF705sI)
-
-
 
 ###[Trance ](trance.md)
 Nacido en Alemania en los 90s. Es una combinación del industrial, el techno y el house.  
